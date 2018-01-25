@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<OffsetData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Base>
+    <int>25180336</int>
+    <int>96</int>
+  </Base>
+  <DMax>208</DMax>
+  <FMax>220</FMax>
+  <Version>1</Version>
+</OffsetData>
